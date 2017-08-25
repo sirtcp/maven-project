@@ -14,8 +14,9 @@ public class Greeter {
 
 /**
  * @param someone test someone another test
- * testing now thi is test.
-*/
+ * @testing now thi is test.
+ * @hello my frind
+ */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
